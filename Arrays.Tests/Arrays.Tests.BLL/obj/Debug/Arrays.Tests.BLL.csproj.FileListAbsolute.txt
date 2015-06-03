@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\bin\Debug\Arrays.Tests.BLL.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\bin\Debug\Arrays.Tests.BLL.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\bin\Debug\Array.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\bin\Debug\Array.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\obj\Debug\Arrays.Tests.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\obj\Debug\Arrays.Tests.BLL.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Arrays.Tests.BLL\obj\Debug\Arrays.Tests.BLL.pdb

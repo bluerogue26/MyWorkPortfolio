@@ -1,0 +1,5 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loop.Tests.BLL\bin\Debug\Loop.Tests.BLL.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loop.Tests.BLL\bin\Debug\Loop.Tests.BLL.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loop.Tests.BLL\obj\Debug\Loop.Tests.BLL.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loop.Tests.BLL\obj\Debug\Loop.Tests.BLL.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loop.Tests.BLL\obj\Debug\Loop.Tests.BLL.csprojResolveAssemblyReference.cache

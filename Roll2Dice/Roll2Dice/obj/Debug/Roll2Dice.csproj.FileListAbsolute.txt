@@ -1,0 +1,12 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Roll2Dice\Roll2Dice\bin\Debug\Roll2Dice.exe.config
+c:\users\apprentice\documents\visual studio 2013\Projects\Roll2Dice\Roll2Dice\bin\Debug\Roll2Dice.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Roll2Dice\Roll2Dice\bin\Debug\Roll2Dice.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Roll2Dice\Roll2Dice\obj\Debug\Roll2Dice.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Roll2Dice\Roll2Dice\obj\Debug\Roll2Dice.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Roll2Dice\Roll2Dice\obj\Debug\Roll2Dice.pdb
+C:\Users\Apprentice\Desktop\DavidKern\Roll2Dice\Roll2Dice\bin\Debug\Roll2Dice.exe.config
+C:\Users\Apprentice\Desktop\DavidKern\Roll2Dice\Roll2Dice\obj\Debug\Roll2Dice.exe
+C:\Users\Apprentice\Desktop\DavidKern\Roll2Dice\Roll2Dice\obj\Debug\Roll2Dice.pdb
+C:\Users\Apprentice\Desktop\DavidKern\Roll2Dice\Roll2Dice\bin\Debug\Roll2Dice.exe
+C:\Users\Apprentice\Desktop\DavidKern\Roll2Dice\Roll2Dice\bin\Debug\Roll2Dice.pdb
+C:\Users\Apprentice\Desktop\DavidKern\Roll2Dice\Roll2Dice\obj\Debug\Roll2Dice.csprojResolveAssemblyReference.cache

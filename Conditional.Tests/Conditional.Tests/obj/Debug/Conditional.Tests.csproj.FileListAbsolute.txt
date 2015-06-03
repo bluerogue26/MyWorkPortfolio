@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\bin\Debug\Conditional.Tests.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\bin\Debug\Conditional.Tests.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\bin\Debug\Conditional.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\bin\Debug\Conditional.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\obj\Debug\Conditional.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\obj\Debug\Conditional.Tests.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Tests\obj\Debug\Conditional.Tests.pdb

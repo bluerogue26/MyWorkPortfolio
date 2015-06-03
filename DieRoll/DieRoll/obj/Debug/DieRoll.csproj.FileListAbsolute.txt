@@ -1,0 +1,8 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\DieRoll\DieRoll\bin\Debug\DieRoll.exe.config
+c:\users\apprentice\documents\visual studio 2013\Projects\DieRoll\DieRoll\bin\Debug\DieRoll.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\DieRoll\DieRoll\bin\Debug\DieRoll.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\DieRoll\DieRoll\obj\Debug\DieRoll.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\DieRoll\DieRoll\obj\Debug\DieRoll.pdb
+C:\Users\Apprentice\Desktop\DavidKern\DieRoll\DieRoll\bin\Debug\DieRoll.exe.config
+C:\Users\Apprentice\Desktop\DavidKern\DieRoll\DieRoll\obj\Debug\DieRoll.exe
+C:\Users\Apprentice\Desktop\DavidKern\DieRoll\DieRoll\obj\Debug\DieRoll.pdb

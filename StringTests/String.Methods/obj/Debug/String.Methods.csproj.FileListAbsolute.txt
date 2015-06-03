@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\String.Methods\bin\Debug\String.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\String.Methods\bin\Debug\String.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\String.Methods\obj\Debug\String.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\String.Methods\obj\Debug\String.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\String.Methods\obj\Debug\String.Methods.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\obj\Debug\Loops.Tests.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\bin\Debug\Loops.Tests.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\bin\Debug\Loops.Tests.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\bin\Debug\Loop.Tests.BLL.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\bin\Debug\nunit.framework.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\bin\Debug\Loop.Tests.BLL.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\bin\Debug\nunit.framework.xml
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\obj\Debug\Loops.Tests.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Loop.Tests.BLL\Loops.Tests\obj\Debug\Loops.Tests.pdb

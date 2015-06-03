@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,oregon,OH,6.25,Tile,123,3.50,4.15,430.50,510.45,58.81,999.76

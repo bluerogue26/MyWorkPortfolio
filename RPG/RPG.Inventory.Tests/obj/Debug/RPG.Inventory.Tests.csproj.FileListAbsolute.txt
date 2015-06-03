@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\bin\Debug\RPG.Inventory.Tests.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\bin\Debug\RPG.Inventory.Tests.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\bin\Debug\RPG.Inventory.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\bin\Debug\RPG.Inventory.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\obj\Debug\RPG.Inventory.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\obj\Debug\RPG.Inventory.Tests.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\RPG\RPG.Inventory.Tests\obj\Debug\RPG.Inventory.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\BattleShip\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\BattleShip\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

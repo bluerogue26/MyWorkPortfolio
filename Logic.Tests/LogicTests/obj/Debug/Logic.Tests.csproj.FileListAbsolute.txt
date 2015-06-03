@@ -1,0 +1,9 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\bin\Debug\LogicTests.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\bin\Debug\LogicTests.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\bin\Debug\Logic.Methods.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\bin\Debug\nunit.framework.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\bin\Debug\Logic.Methods.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\bin\Debug\nunit.framework.xml
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\obj\Debug\Logic.Tests.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\obj\Debug\LogicTests.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\LogicTests\obj\Debug\LogicTests.pdb

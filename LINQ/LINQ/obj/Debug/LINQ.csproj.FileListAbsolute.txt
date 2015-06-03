@@ -1,0 +1,14 @@
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\bin\Debug\Customers.xml
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Labs\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\bin\Debug\Customers.xml
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Apprentice\Desktop\DavidKern\LINQ\LINQ\bin\Debug\LINQ.pdb

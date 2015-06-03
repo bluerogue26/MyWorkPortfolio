@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\SCGBank\SCGBank.Models\bin\Debug\SCGBank.Models.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\SCGBank\SCGBank.Models\bin\Debug\SCGBank.Models.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\SCGBank\SCGBank.Models\obj\Debug\SCGBank.Models.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\SCGBank\SCGBank.Models\obj\Debug\SCGBank.Models.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials.git\Samples\SCGBank\SCGBank.Models\obj\Debug\SCGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\DavidKern\SCGBank\SCGBank.Models\bin\Debug\SCGBank.Models.dll
+C:\Users\Apprentice\Desktop\DavidKern\SCGBank\SCGBank.Models\bin\Debug\SCGBank.Models.pdb
+C:\Users\Apprentice\Desktop\DavidKern\SCGBank\SCGBank.Models\obj\Debug\SCGBank.Models.dll
+C:\Users\Apprentice\Desktop\DavidKern\SCGBank\SCGBank.Models\obj\Debug\SCGBank.Models.pdb

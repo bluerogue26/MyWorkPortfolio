@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Array.Methods\bin\Debug\Array.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Array.Methods\bin\Debug\Array.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Array.Methods\obj\Debug\Array.Methods.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Array.Methods\obj\Debug\Array.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Arrays.Tests\Array.Methods\obj\Debug\Array.Methods.pdb

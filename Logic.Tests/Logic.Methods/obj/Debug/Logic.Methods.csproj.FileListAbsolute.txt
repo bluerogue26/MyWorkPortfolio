@@ -1,0 +1,5 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\Logic.Methods\bin\Debug\Logic.Methods.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\Logic.Methods\bin\Debug\Logic.Methods.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\Logic.Methods\obj\Debug\Logic.Methods.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\Logic.Methods\obj\Debug\Logic.Methods.dll
+c:\users\apprentice\documents\visual studio 2013\Projects\Logic.Tests\Logic.Methods\obj\Debug\Logic.Methods.pdb

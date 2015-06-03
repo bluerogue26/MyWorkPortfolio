@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\bin\Debug\StringTests.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\bin\Debug\StringTests.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\bin\Debug\String.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\bin\Debug\String.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\obj\Debug\StringTests.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\obj\Debug\StringTests.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\StringTests\StringTests\obj\Debug\StringTests.pdb

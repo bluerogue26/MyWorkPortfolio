@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Methods\bin\Debug\Conditional.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Methods\bin\Debug\Conditional.Methods.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Methods\obj\Debug\Conditional.Methods.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Methods\obj\Debug\Conditional.Methods.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Conditional.Tests\Conditional.Methods\obj\Debug\Conditional.Methods.pdb
