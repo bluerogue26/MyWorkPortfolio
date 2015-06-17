@@ -1,0 +1,69 @@
+﻿@model MovieCatalogV1.UI.Models.MovieEditVM
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Movie</h2>
+
+<div class="row">
+    <div class="col-lg-6">
+        @using (Html.BeginForm("Edit", "Movie"))
+        {
+            @Html.HiddenFor(m=>m.MovieToEdit.MovieID)
+            <div class="form-group">
+                <label>Title</label>
+                @Html.TextBoxFor(m => m.MovieToEdit.Title, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Release Year</label>
+                @Html.TextBoxFor(m => m.MovieToEdit.ReleaseYear, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Genre</label>
+                @Html.DropDownListFor(m=>m.MovieToEdit.GenreID, Model.Genres, new{@class="form-control"})
+            </div>
+            <button class="btn btn-primary">Save</button>
+        }
+    </div>
+    <div class="col-lg-6">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Actors</h3>
+                <table class="table">
+                    <tbody>
+                        @foreach (var actor in Model.ActorsInMovie)
+                        {
+                            <tr>
+                                <td>@actor.LastName, @actor.FirstName</td>
+                                <td>
+                                    @using (Html.BeginForm("DeleteActor", "Movie"))
+                                    {
+                                        @Html.Hidden("MovieID", Model.MovieToEdit.MovieID)
+                                        @Html.Hidden("ActorID", actor.ActorID)
+                                        <button class="btn btn-danger">Delete</button>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Available Actors</h3>
+                @using (Html.BeginForm("AddActors", "Movie"))
+                {
+                    @Html.HiddenFor(m=>m.MovieToEdit.MovieID)
+                    <div class="form-group">
+                        @Html.ListBoxFor(m => m.SelectedActors, Model.ActorsNotInMovie, new { @class = "form-control" })
+                    </div>
+                    
+                    <button class="btn btn-primary">Add to Movie</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

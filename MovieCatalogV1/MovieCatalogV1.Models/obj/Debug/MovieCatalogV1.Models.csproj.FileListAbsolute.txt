@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Models\bin\Debug\MovieCatalogV1.Models.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Models\bin\Debug\MovieCatalogV1.Models.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Models\obj\Debug\MovieCatalogV1.Models.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Models\obj\Debug\MovieCatalogV1.Models.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Models\obj\Debug\MovieCatalogV1.Models.pdb

@@ -1,0 +1,36 @@
+﻿@model List<MovieCatalogV1.Models.Queries.MovieListItem>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Movie List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Release Year</th>
+            <th>Genre</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Title</td>
+                <td>@movie.ReleaseYear</td>
+                <td>@movie.GenreName</td>
+                <td>@Html.ActionLink("Edit", "Edit", "Movie", new{id=@movie.MovieID}, new{@class="btn btn-primary"})</td>
+                <td>
+                    @using (Html.BeginForm("Delete", "Movie"))
+                    {
+                        @Html.Hidden("MovieID", movie.MovieID)
+                        <button class="btn btn-danger">Delete</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

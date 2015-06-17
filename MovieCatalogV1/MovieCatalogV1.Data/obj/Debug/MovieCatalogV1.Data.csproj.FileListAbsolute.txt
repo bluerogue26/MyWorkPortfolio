@@ -1,0 +1,10 @@
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\MovieCatalogV1.Data.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\MovieCatalogV1.Data.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\Dapper.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\MovieCatalogV1.Models.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\MovieCatalogV1.Models.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\Dapper.pdb
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\bin\Debug\Dapper.xml
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\obj\Debug\MovieCatalogV1.Data.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\obj\Debug\MovieCatalogV1.Data.dll
+C:\Users\Apprentice\Desktop\april2015-cohort-materials\Samples\MovieCatalogV1\MovieCatalogV1.Data\obj\Debug\MovieCatalogV1.Data.pdb
